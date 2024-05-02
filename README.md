@@ -6,7 +6,8 @@ Hello, I'm Taimoor. A Data Scientist with 3 years of experience in developing da
 
 For more information regarding my background, please take a look at my [portfolio](https://taimoormuhammad.my.canva.site/).
 
-Tools
+**Tools**
+
 Language: SQL, Python, R
 
 Platforms: Jupyter Notebook, PostgreSQL, Snowflake, RStudio, Google Colab, MongoDB, Google Analytics
