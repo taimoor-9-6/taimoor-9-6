@@ -8,6 +8,8 @@ For more information regarding my background, please take a look at my [portfoli
 
 Tools
 Language: SQL, Python, R
+
 Platforms: Jupyter Notebook, PostgreSQL, Snowflake, RStudio, Google Colab, MongoDB, Google Analytics
+
 Visualization: Tableau, PowerBI
 
